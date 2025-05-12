@@ -14,7 +14,7 @@ function Projects() {
       "Implemented ESRI Shapefile parser into Apache AsterixDB, allowing direct querying and processing of spatial data.",
       "Improved the speed of spatial data queries by up to 10x by applying projection and filter pushdown."],
       links: {
-        gitHub: "https://github.com/talhashah-dev/blogging-app"      
+        gitHub: "https://github.com/AsterixDB-geo-support/asterixdb"      
       },
       tags: ["Apache Asterixdb", "Spatial database", "Shapefile", "Query Optimization"],
     },
@@ -30,7 +30,7 @@ function Projects() {
         "Currently exploring spatial proximity-based state merging to further enhance performance and scalability."
       ],
       links: {
-        gitHub: "https://github.com/talhashah-dev/portfolio"
+        gitHub: "https://github.com/tomal-majumder/PatternWithSet"
       },
       tags: ["Finite State Machines", "Spatial Query Optimization", "Pattern Matching"],
     },
@@ -46,8 +46,7 @@ function Projects() {
         "Implemented a user-friendly interface, allowing users to search and retrieve relevant Wikipedia articles and images efficiently.",
       ],
       links: {
-        gitHub: "https://github.com/talhashah-dev/weather-app-react",
-        hosted: "https://weather-app-react-st.netlify.app/",
+        gitHub: "https://github.com/tomal-majumder/Wiki_Search_Engine"
       },
       tags: ["Python", "Redis", "Spark", "Slurm", "React", "NodJS", "Mongodb"],
     },
@@ -65,8 +64,7 @@ function Projects() {
 
       ],
       links: {
-        gitHub: "https://github.com/talhashah-dev/react-crud-app",
-        hosted: "https://react-crud-app-gilt.vercel.app/",
+        gitHub: "https://github.com/sfuad001/BigDataProject-StackOverFlow"
       },
       tags: ['ETL', 'Scala', 'HDFS', 'Spark', 'MLlib'],  
     },
@@ -81,8 +79,7 @@ function Projects() {
         "Studied fault exposure on the reduced test suites, demonstrating that Additional Prioritization with Branch coverage often exposes more faults with fewer tests compared to other strategies"
       ],
       links: {
-        gitHub: "https://github.com/talhashah-dev/react-crud-app",
-        hosted: "https://react-crud-app-gilt.vercel.app/",
+        gitHub: "https://github.com/tomal-majumder/Regression-testing-benchmark"
       },
       tags: ['Python', 'OS', 'glob', 'Subprocess', 'gcc', 'gcov', 'json'],  
     },
@@ -98,8 +95,7 @@ function Projects() {
         "Enhanced classification performance by fine-tuning a pre-trained RoBERTa model, achieving 91.8% accuracy and an F1-score of 0.92."
       ],
       links: {
-        gitHub: "https://github.com/talhashah-dev/react-crud-app",
-        hosted: "https://react-crud-app-gilt.vercel.app/",
+        gitHub: "https://github.com/tomal-majumder/IMDB_Review_Sentiment_Classification"
       },
       tags: ['Pandas', 'scikit-learn', 'PyTorch', 'NLTK', 'spaCy', 'Hugging Face Transformers'],  
     },
@@ -137,14 +133,14 @@ function Projects() {
                     >
                       <FaGithub className="hover:text-purple-500" />
                     </a>
-                    <a
+                    {/* <a
                       href={cards.links.hosted}
                       target="_blank"
                       rel="noreferrer"
                       title="Live Preview"
                     >
                       <FaExternalLinkAlt className="hover:text-purple-500" />
-                    </a>
+                    </a> */}
                   </div>
                 </div>
                 <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
