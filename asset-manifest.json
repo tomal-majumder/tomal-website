@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tomal-website/static/css/main.40da7e40.css",
-    "main.js": "/tomal-website/static/js/main.38f6becb.js",
+    "main.js": "/tomal-website/static/js/main.86697a3b.js",
     "static/media/project-3.png": "/tomal-website/static/media/project-3.757cccc6cd3f26ad0bf1.png",
     "static/media/project-2.png": "/tomal-website/static/media/project-2.395949df73d24e6d8790.png",
     "static/media/project-4.png": "/tomal-website/static/media/project-4.bafd358059d704244674.png",
@@ -32,10 +32,10 @@
     "static/media/css-3-logo.svg": "/tomal-website/static/media/css-3-logo.315b8fdb9dbf75ae965b80bf368895cd.svg",
     "static/media/html-5-logo.svg": "/tomal-website/static/media/html-5-logo.0107c93943a8f415b5db64ebb0a9d12d.svg",
     "main.40da7e40.css.map": "/tomal-website/static/css/main.40da7e40.css.map",
-    "main.38f6becb.js.map": "/tomal-website/static/js/main.38f6becb.js.map"
+    "main.86697a3b.js.map": "/tomal-website/static/js/main.86697a3b.js.map"
   },
   "entrypoints": [
     "static/css/main.40da7e40.css",
-    "static/js/main.38f6becb.js"
+    "static/js/main.86697a3b.js"
   ]
 }
