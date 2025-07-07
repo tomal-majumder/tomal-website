@@ -6,7 +6,7 @@ const education = [
   {
     degree: "Masters in Computer Science and Engineering (MSC)",
     school: "University of California, Riverside (UCR)",
-    date: "June 2025 (expected)",
+    date: "July 2025 (expected)",
     gpa: "GPA: 3.89/4.0",
   },
   {
