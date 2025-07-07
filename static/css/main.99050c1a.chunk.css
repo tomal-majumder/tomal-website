@@ -1,2 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@font-face{font-family:Agustina;src:url(/tomal-website/static/media/Agustina-Signature.03cfd7bc.otf) format("truetype")}body,html{scroll-behavior:smooth}.signature{font-family:Agustina}.active{color:#fff;border-bottom:1px solid #fff}.deactive{color:#7e9199;border-bottom:none}::-webkit-scrollbar{width:10px}::-webkit-scrollbar-track{background:#f1f1f1}::-webkit-scrollbar-thumb{background:#888}::-webkit-scrollbar-thumb:hover{background:#555}
-/*# sourceMappingURL=main.99050c1a.chunk.css.map */
