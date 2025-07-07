@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tomal-website/precache-manifest.a395ea8240da7fa0f0a11b40e950dcdf.js"
+  "/tomal-website/precache-manifest.239d6b4757e94d847b61c0578821723c.js"
 );
 
 self.addEventListener('message', (event) => {
